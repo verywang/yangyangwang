@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  煎饼xia闻
+//
+//  Created by huanghaiyang on 16/1/5.
+//  Copyright © 2016年 tarena. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "WelcomeViewController.h"
+#import "TabBarController.h"
+#import "Test.h"
+
+
+
+#endif /* PrefixHeader_pch */
